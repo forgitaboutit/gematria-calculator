@@ -2,7 +2,7 @@
 This gematria calculator currently handles simple English gematria (a=1, b=2, c=3, ...).
 	
 ## Demo
-[https://forgitaboutit.github.io/gematria-calculator/](https://forgitaboutit.github.io/gematria-calculator/)
+[https://forgitaboutit.github.io/simple-gematria-calculator/](https://forgitaboutit.github.io/simple-gematria-calculator/)
 
 ## Technologies
 * JavaScript
