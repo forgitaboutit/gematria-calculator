@@ -1,0 +1,20 @@
+#text-input {
+  width: 100px;
+}
+
+#input-controls {
+}
+
+.side-by-side-ctr > div {
+  float: left;
+}
+
+#calculate-button {
+  margin-left: 10px;
+}
+
+#output-value-ctr {
+  width: 100px;
+  margin-left: 10px;
+  font-size: 20px;
+}
